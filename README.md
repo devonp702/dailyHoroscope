@@ -12,7 +12,7 @@ Search for your horoscope, enter your thoughts and feelings, find out your job, 
 
 ### Installation:
 
-Application is hosted on heroku at https://git.heroku.com/calm-castle-71189.git
+Application is hosted on heroku at https://arcane-lake-53566.herokuapp.com/profile
 
 ### Usage:
 
